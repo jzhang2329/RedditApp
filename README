@@ -1,1 +1,10 @@
+README
 
+This is a reddit android application. 
+
+User can check subreddit, author, last update, comments, rss.(So far, Nov 18th,2022)
+
+Using Retrofit and Android Studio. 
+
+Issue: Thumbnail cant not be loaded from rss.(Error 403 forbidden)
+      Possible solution: convert rss to html.
